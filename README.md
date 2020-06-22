@@ -1415,7 +1415,7 @@ tuidang@epochtimes.com
 
 **图解如下：**
 
-![](https://user-images.githubusercontent.com/62412777/85238726-8d619a00-b462-11ea-9b3c-0917529a4e3d.jpg)
+<img src="https://user-images.githubusercontent.com/62412777/85238726-8d619a00-b462-11ea-9b3c-0917529a4e3d.jpg">
 
 正是法轮大法揭示的宇宙特性“真善忍”。这波瘟疫中，一些相信并诚心敬念**九字真言“法轮大法好，真善忍好”** 的人们，神奇康复。这样的事例，在法轮大法明慧网比比皆是。
 
